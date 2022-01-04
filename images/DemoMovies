@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang=ja>
+<meta charset=UTF-8>
+<body>
+<video src="gen-000000.h264" autoplay loop></video>
+<video src="gen-000050.h264" autoplay loop></video>
+<video src="gen-002000.h264" autoplay loop></video>
+</body>
+</html>
